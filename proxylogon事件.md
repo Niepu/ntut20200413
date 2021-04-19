@@ -1,3 +1,5 @@
+訓四子四 106362527 陳俊成
+
 # 探討proxylogon事件
 
 proxylogon是Microsoft Exchange Server上的一個漏洞。可使攻擊者可以繞過身份驗證並冒充管理員。  
